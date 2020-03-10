@@ -5,7 +5,7 @@ This is a repo for Bioinformatics clas UCSD winter 2020
 
 # Index of Material 
 
-- Class1: link to class 1 [https://www.cns.nyu.edu/pub/lcv/ganguli10c-preprint.pdf] (url)
+- Class1: link to class 1 [link] (https://www.cns.nyu.edu/pub/lcv/ganguli10c-preprint.pdf)
 - Class2: 
 
 1. Numbered
