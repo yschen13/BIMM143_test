@@ -1,18 +1,14 @@
 ## Bioinformatic class：BIMM 143
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a repo for Bioinformatics clas UCSD winter 2020
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Index of Material 
 
-- Bulleted
-- List
+- Class1: [Link](https://www.cns.nyu.edu/pub/lcv/ganguli10c-preprint.pdf)
+- Class2: 
 
 1. Numbered
 2. List
