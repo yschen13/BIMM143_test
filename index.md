@@ -7,7 +7,7 @@ Syntax highlighted code block
 
 # Index of Material 
 
-- Class1: [Link](https://www.cns.nyu.edu/pub/lcv/ganguli10c-preprint.pdf)
+- Class1: [https://www.cns.nyu.edu/pub/lcv/ganguli10c-preprint.pdf]
 - Class2: 
 
 1. Numbered
