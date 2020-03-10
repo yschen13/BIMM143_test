@@ -1,4 +1,4 @@
-## BIMM 143
+## Bioinformatic class：BIMM 143
 
 ### Markdown
 
